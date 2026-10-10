@@ -26,9 +26,9 @@ from aiogram.types import (
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 # ================= SOZLAMALAR =================
-TOKEN = "8191598505:AAHIYmkp8k4E6wZ_5Iv3oAGKmp0RKHTShdw"
+TOKEN = "8772983463:AAF-F1Ozkf48FLTD9ANmz_8yiS_N6TmVgxg"
 ADMIN_ID = 6361189243
-SECOND_ADMIN_ID = 0  # 2-admin (starosta yordamchisi) Telegram ID si. 0 bo'lsa — hali qo'yilmagan
+SECOND_ADMIN_ID = 6644976302  # 2-admin (starosta yordamchisi) Telegram ID si. 0 bo'lsa — hali qo'yilmagan
 MAX_MEMBERS = 16
 DB = "navbatchi.db"
 
